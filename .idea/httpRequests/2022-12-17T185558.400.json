@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-12-17T23:55:58.524+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "Required request body is missing: public org.springframework.http.ResponseEntity<?> com.tutorial.crud.security.controller.AuthController.nuevo1(com.tutorial.crud.entity.Persona)",
+  "path": "/auth/nuevoP"
+}
